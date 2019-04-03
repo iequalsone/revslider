@@ -1,0 +1,8 @@
+{
+	"name": "iequalsone/revslider",
+	"description": "Revslider with Composer",
+	"keywords": ["wordpress", "blog", "cms"],
+	"type": "wordpress-plugin"
+}
+
+
